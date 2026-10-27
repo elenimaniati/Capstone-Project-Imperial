@@ -1,0 +1,9 @@
+function,dims,n_obs_original,x_min_per_dim,x_max_per_dim,y_min,y_max
+1,2,10,"[np.float64(0.0825), np.float64(0.0787)]","[np.float64(0.8839), np.float64(0.8799)]",-0.003606,0.0
+2,2,10,"[np.float64(0.1427), np.float64(0.0287)]","[np.float64(0.8778), np.float64(0.9266)]",-0.065624,0.611205
+3,3,15,"[np.float64(0.0468), np.float64(0.2199), np.float64(0.0661)]","[np.float64(0.966), np.float64(0.9414), np.float64(0.9909)]",-0.398926,-0.034835
+4,4,30,"[np.float64(0.0378), np.float64(0.0063), np.float64(0.0422), np.float64(0.0815)]","[np.float64(0.9856), np.float64(0.9196), np.float64(0.9392), np.float64(0.9995)]",-32.62566,-4.025542
+5,4,20,"[np.float64(0.1199), np.float64(0.0382), np.float64(0.0889), np.float64(0.0729)]","[np.float64(0.8365), np.float64(0.8625), np.float64(0.8795), np.float64(0.9576)]",0.11294,1088.859618
+6,5,20,"[np.float64(0.0217), np.float64(0.1144), np.float64(0.0165), np.float64(0.0456), np.float64(0.0049)]","[np.float64(0.9577), np.float64(0.9319), np.float64(0.9788), np.float64(0.9617), np.float64(0.8928)]",-2.57117,-0.714265
+7,6,30,"[np.float64(0.0579), np.float64(0.0118), np.float64(0.0036), np.float64(0.0737), np.float64(0.0149), np.float64(0.0511)]","[np.float64(0.9425), np.float64(0.9247), np.float64(0.9246), np.float64(0.961), np.float64(0.9987), np.float64(0.951)]",0.002701,1.364968
+8,8,40,"[np.float64(0.0091), np.float64(0.0034), np.float64(0.0229), np.float64(0.009), np.float64(0.0096), np.float64(0.0221), np.float64(0.0359), np.float64(0.042)]","[np.float64(0.9859), np.float64(0.974), np.float64(0.9989), np.float64(0.903), np.float64(0.9869), np.float64(0.9902), np.float64(0.9929), np.float64(0.9888)]",5.592193,9.598482

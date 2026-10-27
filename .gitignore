@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+# CSV files written by the historical weekly scripts when run from the repo root
+/fit_summary_function*.csv
+/full_grid_function*.csv
+/best_config_overview_all_functions.csv
+/week*_candidates.csv

@@ -1,0 +1,7 @@
+function,strategy,x
+1,"standard (LML-best kernel, beta=1.96)","[0.7755, 0.7959]"
+1,exploration (most under-explored point),"[0.0, 1.0]"
+2,"standard (LML-best kernel, beta=1.96)","[0.6735, 0.9592]"
+2,exploration (most under-explored point),"[0.0, 1.0]"
+4,"standard (LML-best kernel, beta=1.96)","[0.3682, 0.4922, 0.4132, 0.4558]"
+4,moderate exploration (beta=3.5),"[0.3674, 0.5421, 0.4543, 0.3978]"

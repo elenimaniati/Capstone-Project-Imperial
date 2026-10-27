@@ -1,0 +1,9 @@
+function,n_obs,best_kernel_type,best_length_scale_lower_bound,best_alpha,fitted_length_scale,pinned_at_bound,log_marginal_likelihood,default_alpha_rank
+1,15,RBF,0.05,1e-06,0.05,True,-16.76,1/60
+2,15,RBF,0.05,1e-06,0.0633,False,-18.8,1/60
+3,20,RBF,0.1,0.1,0.2358,False,-26.39,8/60
+4,35,RBF,0.05,0.01,0.5439,False,-17.93,17/60
+5,25,RBF,0.05,0.01,0.7064,False,-8.12,17/60
+6,25,Matern_nu1.5,0.1,0.001,0.7513,False,-25.32,4/60
+7,35,Matern_nu1.5,0.1,0.001,0.4389,False,-36.74,4/60
+8,45,Matern_nu2.5,0.5,0.0001,1.4577,False,-23.24,2/60
